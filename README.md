@@ -87,43 +87,62 @@ All of the above operations need to be performed with administrator privileges.
 
 **🔴 ThinkPad**
 
-+ ThinkPad E14
++ ThinkPad E14 G6 (Intel)
 + Thinkpad T14P Gen 1
 + ThinkPad X13 Gen 4
 
 **📕 ThinkBook**
 
++ ThinkBook 14p G3 ARH
 + ThinkBook 14 G4+ ARA
++ ThinkBook 14 G7+ IAH
++ ThinkBook 14 G7+ AHP
 + ThinkBook 16 G5+ ARP
 + ThinkBook 16 G7 IML
-+ ThinkBook 14p G3 ARH
-+ ThinkBook 14 G7+ IAH
 
 **💻 IdeaPad**
 
-+ Lenovo IdeaPad Slim 5 14AHP9 (83DB)
-+ Lenovo Ideapad Gaming 3 15ACH6 (82K2)
-+ Lenovo Ideapad Slim 3i
-+ Lenovo IdeaPad Slim 5 16AHP9
-+ Lenovo IdeaPad Slim 3 15ARP10
++ Ideapad 3 15ALC6 (82MF)
++ IdeaPad Pro 5 14APH8 (83AM)
++ IdeaPad Slim 3 15AMN8
++ IdeaPad Slim 3 15ARP10
++ Ideapad Slim 3i
++ IdeaPad Slim 5 14AHP9 (83DB)
++ IdeaPad Slim 5 16AHP9
++ Ideapad Gaming 3 15ACH6 (82K2)
++ IdeaPad Gaming 3 15IAH7
 
 **🎮 LOQ**
 
-+ Lenovo LOQ 15IRH8
-+ Lenovo LOQ 15ARP9
-+ Lenovo LOQ 15IAX9
-+ Lenovo LOQ 15IRX10
++ LOQ 15ARP9
++ LOQ 15AHP9
++ LOQ 15AHP10
++ LOQ 15APH8
++ LOQ 15IAX9
++ LOQ 15IAX9E
++ LOQ 15IRH8
++ LOQ 15IRX10
 
 **⚡ Legion**
 
-+ Lenovo Legion Pro 5 16ADR10 (83LT)
-+ Lenovo Legion Go
++ Legion Go
++ Legion Pro 5 16ADR10 (83LT)
++ Legion Pro 7i Gen 10
 
 **🪽 Yoga**
 
-+ Lenovo Yoga Slim 6 14IAP8
-+ Lenovo Yoga Slim 7 Aura Edition 15,3"
-+ Lenovo Yoga Pro 7i Aura Edition
++ Yoga Slim 6 14IAP8
++ Yoga Slim 7 Aura Edition 15ILL9
++ Yoga Pro 7i Aura Edition
++ Yoga 9 2-in-1 14IMH9 (83AC)
+
+**V series**
+
++ V15 G3 IAP (82TT)
++ V15 G4 AMN (82YU)
+
+**Misc**
++ Lenovo XiaoXin Pro 13 (82DN)
 
 ## Community Contributions Welcome
 If you have successfully used this tool on a Lenovo device, please report it in [#34](https://github.com/chnzzh/lenovo-logo-changer/issues/34).
