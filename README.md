@@ -3,6 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/chnzzh/lenovo-logo-changer)
 ![GitHub top language](https://img.shields.io/github/languages/top/chnzzh/lenovo-logo-changer)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/chnzzh/lenovo-logo-changer/release.yml)
+![Static Badge](https://img.shields.io/badge/contributions-welcome-blue)
 ![Static Badge](https://img.shields.io/badge/!!!SeeReadmeFirst!!!-orangered)
 
 *Lenovo UEFI Boot Logo Changer* is a rust program designed to modify the Boot startup logo on Lenovo devices with UEFI firmware.
@@ -30,8 +31,6 @@ You can also refer to [How to build](#how-to-build) to compile it yourself.
 + Right-click on the executable file and run it in administrator mode.
 + Click "Open Image" to upload a suitable image.
 + Click "Change Logo"
-
-
 
 ### Linux
 
@@ -83,6 +82,10 @@ All of the above operations need to be performed with administrator privileges.
    cargo build --release --target x86_64-pc-windows-gnu
    ```
 
+## Community Contributions Welcome
+If you have successfully used this tool on a Lenovo device, please report it in [#34](https://github.com/chnzzh/lenovo-logo-changer/issues/34).
+Thanks to everyone who tests and shares successful devices !
+
 ## Currently Supported Devices
 
 **🔴 ThinkPad**
@@ -131,7 +134,7 @@ All of the above operations need to be performed with administrator privileges.
 
 **🪽 Yoga**
 
-+ Yoga Slim 6 14IAP8
++ Yoga Slim 6 14IAP8 (82WU)
 + Yoga Slim 7 Aura Edition 15ILL9
 + Yoga Pro 7i Aura Edition
 + Yoga 9 2-in-1 14IMH9 (83AC)
@@ -144,6 +147,9 @@ All of the above operations need to be performed with administrator privileges.
 **Misc**
 + Lenovo XiaoXin Pro 13 (82DN)
 
-## Community Contributions Welcome
-If you have successfully used this tool on a Lenovo device, please report it in [#34](https://github.com/chnzzh/lenovo-logo-changer/issues/34).
-Thanks to everyone who tests and shares successful devices!
+## Device details
+
+### Yoga Slim 6 14IAP8 (82WU)
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Debian GNU/Linux 13 (trixie) x86_64 |   yes  |     |     |     |     |   yes  |
