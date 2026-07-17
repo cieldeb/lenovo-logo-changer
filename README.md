@@ -26,7 +26,7 @@ You can also refer to [How to build](#how-to-build) to compile it yourself.
 
 ![ui](https://github.com/user-attachments/assets/b1d5112e-3bcb-44c2-8c9b-d43669285cfd)
 
-### Windows
+**Windows**
 
 + Right-click on the executable file and run it in administrator mode.
 + Click "Open Image" to upload a suitable image.
@@ -149,7 +149,65 @@ Thanks to everyone who tests and shares successful devices !
 
 ## Device details
 
-### Yoga Slim 6 14IAP8 (82WU)
+### 🔴 ThinkPad
+
+**ThinkPad E14 G6 (Intel)**
+**Thinkpad T14P Gen 1**
+**ThinkPad X13 Gen 4**
+
+**📕 ThinkBook**
+
+**ThinkBook 14p G3 ARH**
+**ThinkBook 14 G4+ ARA**
+**ThinkBook 14 G7+ IAH**
+**ThinkBook 14 G7+ AHP**
+**ThinkBook 16 G5+ ARP**
+**ThinkBook 16 G7 IML**
+
+**💻 IdeaPad**
+
+**Ideapad 3 15ALC6 (82MF)**
+**IdeaPad Pro 5 14APH8 (83AM)**
+**IdeaPad Slim 3 15AMN8**
+**IdeaPad Slim 3 15ARP10**
+**Ideapad Slim 3i**
+**IdeaPad Slim 5 14AHP9 (83DB)**
+**IdeaPad Slim 5 16AHP9**
+**Ideapad Gaming 3 15ACH6 (82K2)**
+**IdeaPad Gaming 3 15IAH7**
+
+**🎮 LOQ**
+
+**LOQ 15ARP9**
+**LOQ 15AHP9**
+**LOQ 15AHP10**
+**LOQ 15APH8**
+**LOQ 15IAX9**
+**LOQ 15IAX9E**
+**LOQ 15IRH8**
+**LOQ 15IRX10**
+
+**⚡ Legion**
+
+**Legion Go**
+**Legion Pro 5 16ADR10 (83LT)**
+**Legion Pro 7i Gen 10**
+
+**🪽 Yoga**
+
+**Yoga Slim 6 14IAP8 (82WU)**
 |         | jpg | tga | pcx | gif | bmp | png |
 |---------|-----|-----|-----|-----|-----|-----|
-| Debian GNU/Linux 13 (trixie) x86_64 |   yes  |     |     |     |     |   yes  |
+| Debian GNU/Linux 13 (trixie) x86_64 |   yes  |  untested   |  untested   |  untested   |  untested   |   yes  |
+
+**Yoga Slim 7 Aura Edition 15ILL9**
+**Yoga Pro 7i Aura Edition**
+**Yoga 9 2-in-1 14IMH9 (83AC)**
+
+**V series**
+
+**V15 G3 IAP (82TT)**
+**V15 G4 AMN (82YU)**
+
+**Misc**
+**Lenovo XiaoXin Pro 13 (82DN)**
