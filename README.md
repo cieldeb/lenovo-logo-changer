@@ -114,6 +114,8 @@ Thanks to everyone who tests and shares successful devices !
 + IdeaPad Slim 5 16AHP9
 + Ideapad Gaming 3 15ACH6 (82K2)
 + IdeaPad Gaming 3 15IAH7
++ IdeaPad Pro 5 14AKP10
++ IdeaPad Pro 14IAH10
 
 **🎮 LOQ**
 
@@ -130,7 +132,9 @@ Thanks to everyone who tests and shares successful devices !
 
 + Legion Go
 + Legion Pro 5 16ADR10 (83LT)
-+ Legion Pro 7i Gen 10
++ Legion Pro 7i Gen 10 (16IAX10H)
++ Legion y7000p 2024 IRX9
++ Legion 5 15ITH6H
 
 **🪽 Yoga**
 
@@ -152,6 +156,10 @@ Thanks to everyone who tests and shares successful devices !
 ### 🔴 ThinkPad
 
 **ThinkPad E14 G6 (Intel)**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Debian Trixie | untested | untested | untested | untested | yes | untested |
+
 **Thinkpad T14P Gen 1**
 **ThinkPad X13 Gen 4**
 
@@ -161,28 +169,76 @@ Thanks to everyone who tests and shares successful devices !
 **ThinkBook 14 G4+ ARA**
 **ThinkBook 14 G7+ IAH**
 **ThinkBook 14 G7+ AHP**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Pro for Workstations 25H2 (build 26200.8117) | yes | untested | untested | untested | yes | yes |
+
 **ThinkBook 16 G5+ ARP**
 **ThinkBook 16 G7 IML**
 
 **💻 IdeaPad**
 
 **Ideapad 3 15ALC6 (82MF)**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Gentoo Linux x86_64 7.0.12-gentoo-r1 | no | untested | untested | untested | yes (1920x1080, BMP3 TrueColor, uncompressed only) | no |
+
 **IdeaPad Pro 5 14APH8 (83AM)**
 **IdeaPad Slim 3 15AMN8**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Home 25H2 | yes | untested | untested | untested | yes | untested |
+
 **IdeaPad Slim 3 15ARP10**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Arch Linux 6.18.9-arch1-2 | yes | untested | untested | untested (not tried) | untested | untested |
+
 **Ideapad Slim 3i**
 **IdeaPad Slim 5 14AHP9 (83DB)**
 **IdeaPad Slim 5 16AHP9**
 **Ideapad Gaming 3 15ACH6 (82K2)**
 **IdeaPad Gaming 3 15IAH7**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Home 25H2 (build 26200.8246) | untested | untested | untested | partial (plays as still image, no animation) | untested | yes |
+| Windows 11 Home 25H2 | yes | untested | untested | yes (static) | yes | yes |
+
+**IdeaPad Pro 5 14AKP10**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Arch Linux 6.18.8-3-cachyos | untested | untested | untested | untested (not tried) | untested | untested |
+
+Note: static images confirmed working, exact image format not specified.
+
+**IdeaPad Pro 5 14IAH10**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Pro 25H2 (build 26200.8968) | yes | untested | untested | untested | untested | yes |
 
 **🎮 LOQ**
 
 **LOQ 15ARP9**
 **LOQ 15AHP9**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Home 24H2-25H2 (BIOS NZCN28WW) | untested | untested | untested | yes (full sized) | untested | yes |
+
 **LOQ 15AHP10**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 | untested | untested | untested | yes | untested | untested |
+
+Note: static images also confirmed working, exact image format not specified.
+
 **LOQ 15APH8**
 **LOQ 15IAX9**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Arch Linux | untested | untested | untested | partial (single-frame gifs work; multi-frame gifs boot loop after latest BIOS update) | untested | untested |
+
+Note: static images work flawlessly, exact image format not specified.
+
 **LOQ 15IAX9E**
 **LOQ 15IRH8**
 **LOQ 15IRX10**
@@ -191,7 +247,18 @@ Thanks to everyone who tests and shares successful devices !
 
 **Legion Go**
 **Legion Pro 5 16ADR10 (83LT)**
-**Legion Pro 7i Gen 10**
+**Legion Pro 7i Gen 10 (16IAX10H)**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Pro (build 26200.8039, BIOS Q7CN77WW) | yes | untested | untested | yes | yes | untested |
+
+**Legion y7000p 2024 IRX9**
+**Legion 5 15ITH6H**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Home 25H2 (build 26200.8875, BIOS H1CN58WW) | untested | untested | untested | no (2.1s clip, possibly too large) | untested | untested |
+
+Note: other formats reported as successful, exact image formats not specified.
 
 **🪽 Yoga**
 
@@ -201,8 +268,15 @@ Thanks to everyone who tests and shares successful devices !
 | Debian GNU/Linux 13 (trixie) x86_64 |   yes  |  untested   |  untested   |  untested   |  untested   |   yes  |
 
 **Yoga Slim 7 Aura Edition 15ILL9**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Pro 25H2 (BIOS NYCN76WW) | untested | untested | untested | untested | untested | untested |
+
 **Yoga Pro 7i Aura Edition**
 **Yoga 9 2-in-1 14IMH9 (83AC)**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Windows 11 Pro 25H2 | yes | untested | untested | untested | untested (not tested yet) | untested |
 
 **V series**
 
@@ -211,3 +285,8 @@ Thanks to everyone who tests and shares successful devices !
 
 **Misc**
 **Lenovo XiaoXin Pro 13 (82DN)**
+|         | jpg | tga | pcx | gif | bmp | png |
+|---------|-----|-----|-----|-----|-----|-----|
+| Fedora Linux 44 (7.0.12) | untested | untested | untested | untested | yes (640x480) | untested |
+
+Note: reported in issue #34 as model 82DM (XiaoXinPro-13ARE 2020); listed here under the existing 82DN entry pending confirmation of the exact model number.
